@@ -1,0 +1,15 @@
+{
+  "2026-06-09": {
+    "daily_check_in": {
+      "day_rating": 1,
+      "anxiety_level": 2,
+      "productivity_level": 3,
+      "shark_week": true
+    },
+    "habits": {
+      "exercise": false,
+      "shower": false,
+      "guitar": false
+    }
+  }
+}
